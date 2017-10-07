@@ -119,7 +119,6 @@ Segue um guia de estudos com tópicos a serem estudados para nivelamento e apres
 			+ rem;
 			+ vh;
 			+ vw;
-
 15. Conhecendo o Can i Use? (https://caniuse.com/)
 16. Conhecendo Pré-Processadores de CSS:
 	+ SASS (Trabalharemos com SASS)
@@ -149,6 +148,7 @@ Segue um guia de estudos com tópicos a serem estudados para nivelamento e apres
 	+ Templates Literais;
 	+ Promisses;
 	+ Classes;
+	+ Async/Await;
 22. Ferramentas de automação;
 	+ Por que utilizar?
 	+ O que podemos fazer?
