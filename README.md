@@ -189,3 +189,11 @@ Segue um guia de estudos com tópicos a serem estudados para nivelamento e apres
 	+ Conhecendo uma aplicação de Chat em Realtime com Firebase;
 34. Trabalhando com JQuery;
 35. Conhecendo alguns plugins essenciais do JQuery;
+
+
+# Links Interessantes
+
+* http://thenodeway.io/posts/designing-custom-types/
+* https://www.sitepoint.com/understanding-module-exports-exports-node-js/
+* https://www.dynatrace.com/news/blog/understanding-garbage-collection-and-hunting-memory-leaks-in-node-js/
+* https://mongodb.github.io/node-mongodb-native/
